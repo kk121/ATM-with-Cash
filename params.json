@@ -1,0 +1,6 @@
+{
+  "name": "Atm-with-cash",
+  "tagline": "Crowd-sourced Android application which shows list of nearby ATMs with Cash.",
+  "body": "# ATM with CASH\r\n**Crowd-source Android application which shows list of nearby ATMs with Cash.** <br>\r\n**It does not require manual tagging of ATM with Cash. All processes are automatic**\r\n\r\n## Installation and How to use\r\n```sh\r\n-Install the app\r\n-Give Location and Message read permission\r\n-That's it. Now it will shows list of naerby ATM with Cash.\r\n```\r\n\r\n## How it works\r\n```sh\r\n- Whenever any user withdraw money from ATM,he gets sms from the bank.\r\n- It reads the sms extract all details like Bank name,ATM name etc. (No amount details)\r\n- Then it gets user location.\r\n- Now it sync all these information to server.\r\n```\r\n```sh\r\n- Whenever user opens the app,it fetches the ATM details which is closer to the user location from server.\r\n- It also navigates the user to nearest ATM.\r\n```",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
