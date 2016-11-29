@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "138416230605",
+    "project_id": "paisewalaatm"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138416230605:android:a1fec3a7477dcc87",
+        "android_client_info": {
+          "package_name": "com.paisewalaatm.paisewalaatm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3J4P4ILSkvE6WNIr7ti0XJm9JvP5dz7w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-87413164-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
